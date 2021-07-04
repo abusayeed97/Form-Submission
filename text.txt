@@ -1,0 +1,60 @@
+First Name= 
+Last Name= 
+Gender= 
+
+DOBE= 
+Religion= 
+Email= 
+Phone= 
+User Name=
+Password=
+PresentAddress=
+PermanenttAddress=
+First Name= 
+Last Name= 
+Gender= 
+
+DOBE= 
+Religion= 
+Email= 
+Phone= 
+User Name=
+Password=
+PresentAddress=
+PermanenttAddress=
+First Name= 
+Last Name= 
+Gender= 
+
+DOBE= 
+Religion= 
+Email= 
+Phone= 
+User Name=
+Password=
+PresentAddress=
+PermanenttAddress=
+First Name= 
+Last Name= 
+Gender= 
+
+DOBE= 
+Religion= 
+Email= 
+Phone= 
+User Name=
+Password=
+PresentAddress=
+PermanenttAddress=
+First Name= 
+Last Name= 
+Gender= 
+
+DOBE= 
+Religion= 
+Email= 
+Phone= 
+User Name=
+Password=
+PresentAddress=
+PermanenttAddress=
